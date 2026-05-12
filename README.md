@@ -1,4 +1,4 @@
-# kpi-reporting-dashboard-prep
+# Reporting-Dashboard-Prep
 Data preparation project using Python and Excel-style business logic to clean, transform, and summarize data for KPI reporting and dashboard development. Skills: Python, Excel, SQL, KPI reporting, dashboards, data transformation
 
 ## Overview
